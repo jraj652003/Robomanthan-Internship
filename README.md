@@ -6,8 +6,11 @@
 - [Day 4](Day4) - [ 14/01/2026 ] - List, Tuple & Dict 
 - [Day 5](Day5) - [ 16/01/2026 ] - Loop & Conditional Statements 
 - [Day 6](Day6) - [ 19/01/2026 ] - Functions 
-- [Day 7](Day7) - [ 21/01/2026 ] - Revision
-- [Day 8](Day8) - [ 22/01/2026 ] - Revision
-- [Day 9](Day9) - [ 23/01/2026 ] - Revision
+- [Day 7](Day7) - [ 21/01/2026 ] - Revision on Functions
+- [Day 8](Day8) - [ 22/01/2026 ] - Revision on Slicing
+- [Day 9](Day9) - [ 23/01/2026 ] - Revision on Loops
 - [Day 10](Day10) - [ 27/01/2026 ] - Problem Solving
 - [Day 11](Day11) - [ 29/01/2026 ] - Intro to Arduino UNO and Sensors
+- [Day 12](Day12) - [ 30/01/2026 ] - Projects built using Arduino Uno
+- [Day 13](Day13) - [ 02/02/2026 ] - Line follower robot
+- [Day 14](Day14) - [ 03/02/2026 ] - Arduino Radar - (Arduino UNO, Ultrasonic Sensor, and Servo Motor)
